@@ -83,9 +83,9 @@ public class Apotek {
 public static void main (String [] args){
     Apotek ap = new Apotek ();
     System.out.println("Data Obat: ");
-    ap.setIdObat(1234);
-    ap.setNamaObat("Panadol");
-    ap.setHargaObat(2000);
+    ap.setIdObat(1345);
+    ap.setNamaObat("Paramex");
+    ap.setHargaObat(3000);
     ap.setPenjualanPerBulan(80); 
     ap.tampil();
    } 
